@@ -4,8 +4,8 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
   
 current status‥  
   
-||||
+|basis11|subscription|project|
 |----|--|--|
-|[+]|invitee (private) subscribtion|theme of elements|
-|[-]|pseudonym subscription|kudos|
-|[-]|anonym subscription|levelling|
+|[+]|invitee (private)|theme of elements|
+|[-]|pseudonym|kudos|
+|[-]|anonym|levelling|

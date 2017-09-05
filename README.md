@@ -9,3 +9,10 @@ current status‥
 |[+]|invitee (private)|theme of elements|
 |[-]|pseudonym|kudos|
 |[-]|anonym|levelling|
+
+---
+**[Link ∷ README](./README.md)**
+
+[Link ∷ how2sync](./how2sync.md)
+
+[Link ∷ netiqette](./netiqette.md)

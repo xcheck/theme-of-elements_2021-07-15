@@ -1,9 +1,9 @@
 # Install local client for ‥
 
-### ∴ on Linux
+### ∵ on Linux
 
 * w/ Debian 9 "Stretch" execute `sudo apt install gitlab`  
- ∵ ☛ your terminal "Konsole" will guide through some req setup
+ ∴ ☛ your terminal "Konsole" will guide through some req setup
 
 ---
 [Link ∷ README](./README.md)

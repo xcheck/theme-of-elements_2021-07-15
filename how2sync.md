@@ -2,11 +2,14 @@
 
 ### ∵ on Linux
 
-* w/ Debian 9 "Stretch" execute  
- `sudo apt install gitlab`  
- `sudo gem install gollum` -- git-based Wiki  
- `sudo gem install github-markdown` -- .md Markup ↘  
- ∴ ☛ your terminal "Konsole" will guide through some req setup
+* w/ Debian 9 "Stretch" execute ☛  
+ `sudo apt install gitlab` « your terminal "Konsole" will guide through some req setup  
+ ⋯  
+ `sudo gem install update`  
+ `sudo gem install gollum` « [git-based Wiki](https://github.com/gollum/gollum#description)  
+ `sudo gem install github-markdown` « [.md Markup](https://github.com/gitlabhq/markup#markups) ↘
+
+### ∴
 
 ---
 [Link ∷ README](./README.md)

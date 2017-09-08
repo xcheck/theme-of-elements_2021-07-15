@@ -9,7 +9,7 @@
  ~~`sudo gem install gollum`~~ « [git-based Wiki](https://github.com/gollum/gollum#description)  
  ~~`sudo gem install github-markdown`~~ « [.md Markup](https://github.com/gitlabhq/markup#markups) ↘  
  ⋯  
- `gem query commonmaker`  
+ `gem query commonmarker`  
 
 ### ∴
 

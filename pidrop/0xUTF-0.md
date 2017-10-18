@@ -8,6 +8,16 @@ Qi
 Chi  
 
 
+### K -eq DI as we have learned…
+
+₁2³A or ₁²₃ cycles ₁³₂ delta
+
+KKK means therefore  
+Re  
+Re  
+Re as in regen
+
+
 ### CI as `c`ontinuous `i`mprovement
 
 **interne Sprachregelung**  

@@ -1,5 +1,8 @@
 # Working Draft
 
+Direkt nicht Gegenteil d.h. ¬Ausschluss technik wo möglich
+
+
 ### AR ◁ DE
 
 ```

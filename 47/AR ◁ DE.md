@@ -1,6 +1,6 @@
 # AR ◁ DE
 
-### Li Idee :pregnant_woman:
+### Li → Be _« Idee_ :pregnant_woman:
 
 ```
 (Familie) ↹ Arbeitgeber

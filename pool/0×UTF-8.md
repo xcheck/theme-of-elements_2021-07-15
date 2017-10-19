@@ -36,3 +36,25 @@
 ₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	₏
 
 ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ	₝	₞	₟
+
+
+---
+### Dose Adapter DE>AR
+
+|Entity |Scope |
+|--- |-- |
+|DE ^AR |RADICAL |
+|^AR DE |ISOTOP |
+|ar DE |ORDNUNG |
+|DE ar |BASIS |
+
+
+|pD |oI |lM |
+| :---: | :--: | :--: |
+|ISOTOP | |RADICAL |
+| |:Delta: | |
+|ORDNUNG | |BASIS |
+
+
+inherit \<DE\>[AR] « optional cycles to arDE
+

@@ -63,6 +63,6 @@ inherit \<DE\>[AR] « optional cycles to arDE
 
 ITTT  
 T ^¬1 TT  
-Δ ^¬1
+Δ ^¬1  
 ∵  
 |∴| scoop schöpfen

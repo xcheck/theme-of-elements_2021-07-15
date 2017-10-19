@@ -15,6 +15,12 @@
 
 ∴	∵	∶	∷
 
+▲	△	▴	▵
+
+▼	▽	▾	▿
+
+⛛    ⛰    ⚺   	⚻
+
 ⟲	⟳	↶	↷	∿
 
 ₕ	¼	½	¾	⁄	÷	×
@@ -43,8 +49,8 @@
 
 |Entity |Scope |
 |--- |-- |
-|DE ^AR |RADICAL |
-|^AR DE |ISOTOP |
+|DEᴬᴿ |RADICAL |
+|ᴬᴿDE |ISOTOP |
 |ar DE |ORDNUNG |
 |DE ar |BASIS |
 
@@ -52,7 +58,7 @@
 |pD |oI |lM |
 | :---: | :--: | :--: |
 |ISOTOP | |RADICAL |
-| |Δ | |
+| |Delta | |
 |ORDNUNG | |BASIS |
 
 
@@ -63,6 +69,6 @@ inherit \<DE\>[AR] « optional cycles to arDE
 
 ITTT  
 T ^¬1 TT  
-Δ ^¬1  
+▽  
 ∵  
 |∴| scoop schöpfen

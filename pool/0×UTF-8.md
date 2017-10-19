@@ -4,7 +4,7 @@
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
 
-### Sonderzeichen
+# Sonderzeichen
 ¦	☛	ℹ	↯	⛓	⛳	⛱
 
 ↤	↦	↹	⇔	⇒	⇗	⇑
@@ -44,15 +44,16 @@
 ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ	₝	₞	₟
 
 
----
+# Backround
+
 ### Dose Adapter DE>AR
 
 |Entity |Scope |
 |--- |-- |
 |DEᴬᴿ |RADICAL |
 |ᴬᴿDE |ISOTOP |
-|ar DE |ORDNUNG |
-|DE ar |BASIS |
+|arDE |ORDNUNG |
+|DEar |BASIS |
 
 
 |pD |oI |lM |

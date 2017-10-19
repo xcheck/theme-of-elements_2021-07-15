@@ -52,9 +52,17 @@
 |pD |oI |lM |
 | :---: | :--: | :--: |
 |ISOTOP | |RADICAL |
-| |:Delta: | |
+| |Δ | |
 |ORDNUNG | |BASIS |
 
 
 inherit \<DE\>[AR] « optional cycles to arDE
 
+
+### IfThisThanThat (ITTT)
+
+ITTT  
+T ^¬1 TT  
+Δ ^¬1
+∵  
+|∴| scoop schöpfen

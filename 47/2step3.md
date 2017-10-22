@@ -23,14 +23,14 @@ Nehmen
 
 |(Mit) |Schlüssel |[Da] |
 | :--- | :--: | :--- |
-|* _KF_ Sporttasche Kleidung Trink | | Post … ct Test |
-|* _Piso_ Stromadapter | |ToDo Liste →\gitlab/ |
+|* `KF` Sporttasche Kleidung Trink | | Post … ct Test |
+|* `Piso` Stromadapter | |ToDo Liste →\gitlab/ |
 |. Notebook Mobile E-Reader | |Linux Issues →\gitlab/ |
 |. Bath ^room | |Addressbuch →\gitlab/ →Google Android ^OnePlus ^5 |
 |. Keiderschrank Bügel | | |
 |. Reise Laken Regenschirm | | |
 |. Kontakte Workload | | |
-|* _Bezugspunkt Rücken Füße Kondition | | |
+|* `Bezugspunkt` Rücken Füße Kondition | | |
 |. Gruppe Gemeinschaft | | |
 |. 1 Bezugsperson männl weibl temp dauerhaft je nach. | | |
 |. 1 feste Bindung , weibl. , offene Karten , sync dass Differenzen nicht am  können liegen | | |

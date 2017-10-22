@@ -21,19 +21,19 @@ EZE - Hotel Dido
 Was  
 Nehmen
 
-|(Mit) |Schlüssel |[Da] |
-| :--- | :--: | :--- |
-|`KF` Sporttasche Kleidung Trink.. | | Post … ct Test |
-|`Piso` Stromadapter.. | |ToDo Liste →\gitlab/ |
-|. Notebook Mobile E-Reader | |Linux Issues →\gitlab/ |
-|. Bath ^room | |Addressbuch →\gitlab/ →Google Android ^OnePlus ^5 |
-|. Keiderschrank Bügel | | |
-|. Reise Laken Regenschirm | | |
-|. Kontakte Workload | | |
-|`Bezugspunkt` Rücken Füße Kondition.. | | |
-|. Gruppe Gemeinschaft | | |
-|. 1 Bezugsperson männl weibl temp dauerhaft je nach. | | |
-|. 1 feste Bindung , weibl. , offene Karten , sync dass Differenzen nicht am  können liegen | | |
+|© Schl ^üssel |(Mit) |[Da] |
+| :--- | :--- | :--- |
+|`KF` |Sporttasche Kleidung Trink |Post … ct Test Schlüssel |
+|`Piso`| Stromadapter |ToDo Liste →\gitlab/ |
+|. |Notebook Mobile E-Reader |Linux Issues →\gitlab/ |
+|. |Bath ^room |Addressbuch →\gitlab/ →Google Android ^OnePlus ^5 |
+|. |Keiderschrank Bügel | |
+|. |Reise Laken Regenschirm | |
+|. |Kontakte Workload | |
+|`Bezugspunkt`| Rücken Füße Kondition | |
+|.| Gruppe Gemeinschaft | |
+|.| 1 Bezugsperson männl weibl temp dauerhaft je nach. | |
+|.| 1 feste Bindung , weibl. , offene Karten , sync dass Differenzen nicht am  können liegen | |
 
 
 ### Li → Be _« Idee_ :pregnant_woman:

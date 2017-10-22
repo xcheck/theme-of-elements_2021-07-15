@@ -58,7 +58,7 @@ funktion vs.
 ---
 > :chains:
 
-# Work to be done to… — To Do List // K{+us+}s drops K{-is-}s :soccer:
+# Work to be done to… — K{+us+}s drops K{-is-}s // To Do List :soccer:
 
 ### D{+IS+}C {+→+} CD
 

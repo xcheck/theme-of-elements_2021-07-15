@@ -21,7 +21,7 @@ EZE - Hotel Dido
 Was  
 Nehmen
 
-|© Schl ^üssel |(Mit) |[Da] |
+|© Schl ^üs se ^l |(Mit) |[Da] |
 | :--- | :--- | :--- |
 |`KF` |Sporttasche Kleidung Trink |Post … ct Test Schlüssel |
 |`Piso`| Stromadapter |ToDo Liste →\gitlab/ |

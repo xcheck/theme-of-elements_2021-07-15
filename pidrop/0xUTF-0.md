@@ -45,3 +45,12 @@ Re as in regen
 *  Update 2017-10-14 (Mikel: …Otto besteht auf Sprachzweig statt Bildempfinden)
 - [ ]  E-Mail fo 2017-10-17 Christine (Mikel sync ^Christine: …dict email komplett // ghostwriting // kein review meinerseits , "escriba Christina" hier drop ich typische driftsituation)
 
+
+---
+> :chains:
+
+# Open List // things-i-dont-want-to-forget
+
+```
+Kurier Lesestab
+```

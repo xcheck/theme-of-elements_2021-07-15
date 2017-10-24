@@ -2,63 +2,18 @@
 
 Direkt nicht Gegenteil d.h. ¬Ausschluss technik wo möglich
 
-
-### AR ◁ DE
-```
-EZE - Hotel Dido
-    - Kung Fu
-```
-
-|L |C |R |
-|--- |:---: |--- |
-|₂Disturbances | |³… _Direction Polarisation Ele ^os_ |
-| |S | |
-|₀Hintergrund | |₁Necesidades |
-
-
-##### Pieza ⌒ Kung Fu ⌒ [o] Funk Sprache Finden Bezugspunkt
-
-Was  
-Nehmen
-
-|© Schl ^üs se ^l |(Mit) |[Da] |
-| :--- | :--- | :--- |
-|`KF` |Sporttasche Kleidung Trink |Post … ct Test Schlüssel |
-|`Piso`| Stromadapter |ToDo Liste →\gitlab/ ^[scroll ^to ^footer] |
-|. |Notebook Mobile E-Reader |Linux Issues →\gitlab/ |
-|. |Bath ^room |Addressbuch →\gitlab/ →Google Android ^OnePlus ^5 |
-|. |Keiderschrank Bügel | |
-|. |Reise Laken Regenschirm | |
-|. |Kontakte Workload | |
-|`Bezugspunkt`| Rücken Füße Kondition | |
-|.| Gruppe Gemeinschaft | |
-|.| 1 Bezugsperson männl weibl temp dauerhaft je nach. | |
-|.| 1 feste Bindung , weibl. , offene Karten , sync dass Differenzen nicht am  können liegen | |
-
-
-### Li → Be _« Idee_ :pregnant_woman:
-
-```
-(Familie) ↹ Arbeitgeber
-funktion vs.
-- Akzeptanz
--- Toleranz
---- Werte
----- Respekt
------ Bild
------- Bewahrung
-------- Raum
-- Sprache
--- Konflikt
---- Lösungsbereitschaft
----- Diffsync
-```
-
+[LiNK ∷ Busco¹²³ Piso ⌒ Kung Fu ⌒ [o] Persona de Referencia ³²¹en Bs. As. igual al 01.11.2017 más 5 méses aproxidamtente](https://gitlab.com/xcheck/fellows/snippets/1680886)
 
 ---
 > :chains:
 
 # Work to be done to… — K{+us+}s drops K{-is-}s // To Do List :soccer:
+
+### [ISBN :dice: :die: :cube:](https://gitlab.com/xcheck/fellows/snippets/1680925)
+
+^SI BN Dice  
+US ▽ blind
+
 
 ### D{+IS+}C {+→+} CD
 

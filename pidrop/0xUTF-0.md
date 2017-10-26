@@ -11,7 +11,7 @@ Direkt nicht Gegenteil d.h. ¬Ausschluss technik wo möglich
 
 ### [ISBN](https://gitlab.com/xcheck/fellows/snippets/1680925) :game_die:
 
-^SI BN Dice  
+^SI BN Die  
 US ▽ blind
 
 

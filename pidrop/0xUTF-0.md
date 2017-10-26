@@ -9,7 +9,7 @@ Direkt nicht Gegenteil d.h. ¬Ausschluss technik wo möglich
 
 # Work to be done to… — K{+us+}s drops K{-is-}s // To Do List :soccer:
 
-### [ISBN :dice: :die: :cube: :dime: :escudo:](https://gitlab.com/xcheck/fellows/snippets/1680925)
+### [ISBN](https://gitlab.com/xcheck/fellows/snippets/1680925) :game_die:
 
 ^SI BN Dice  
 US ▽ blind
